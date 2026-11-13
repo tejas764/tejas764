@@ -18,8 +18,47 @@ A collection of projects focused on **AI, full-stack engineering, cybersecurity,
 | **[ResQNet](https://github.com/tejas764/FSD_LAbs)** | Offline-first disaster management platform supporting emergency reports, rescue coordination, resource tracking, and offline data storage. | JavaScript, IndexedDB, Leaflet, PWA |
 | **[NetGuard](https://github.com/tejas764/ML_project)** | Machine-learning network intrusion detection prototype with traffic classification and an interactive analytics dashboard. | Python, Scikit-learn, Streamlit |
 | **[Tunneling Insights](https://github.com/tejas764/Tunneling-Insights)** | Cybersecurity research project focused on explainable DNS tunneling detection in controlled environments. | Python, Scapy, Streamlit |
-| **[WanderLust](https://github.com/tejas764/Hotel_Booking_Project)** | Full-stack accommodation listing and booking-oriented web application with authentication and database integration. | Node.js, Express, MongoDB, EJS |
-| **[SOS App](https://github.com/tejas764/Sos-app)** | Android emergency-assistance prototype exploring SOS alerts and location-aware workflows. | Kotlin, Firebase, Android |
+| **[WanderLust](https://github.com/tejas764/Hotel_Booking_Project)** | Full-stack accommodation listings and reviews with authentication and database integration. | Node.js, Express, MongoDB, EJS |
+| **[SOS App](https://github.com/tejas764/Sos-app)** | Android emergency-assistance prototype exploring SOS alerts and location-aware workflows. | Kotlin, Google Maps, Android |
+
+---
+
+## Project directory
+
+### AI and security
+
+| Repository | Focus |
+| --- | --- |
+| [ProctorAI](https://github.com/tejas764/ProctorAI_1) | Multimodal proctoring research prototype |
+| [Voice Authentication](https://github.com/tejas764/Voice_authentication) | Speaker enrollment and recognition |
+| [NetGuard](https://github.com/tejas764/ML_project) | Network-flow classification and analytics |
+| [Tunneling Insights](https://github.com/tejas764/Tunneling-Insights) | Controlled DNS traffic and defensive analysis |
+
+### Full-stack web and event platforms
+
+| Repository | Focus |
+| --- | --- |
+| [WorkHub AI](https://github.com/tejas764/workhub) | Department workspace and document-grounded AI |
+| [WanderLust](https://github.com/tejas764/Hotel_Booking_Project) | Accommodation listings, accounts, and reviews |
+| [Interface registration](https://github.com/tejas764/interface-3) | Event registration, receipts, and email workflows |
+| [Interface landing page](https://github.com/tejas764/Interface-Cucs) | Static festival website |
+| [Interface backend snapshot](https://github.com/tejas764/Interface-2026) | Partial backend snapshot; see setup limitations |
+
+### Civic tech and mobile
+
+| Repository | Focus |
+| --- | --- |
+| [ResQNet](https://github.com/tejas764/FSD_LAbs) | Local offline disaster-coordination prototype; simulated sync |
+| [SOS App](https://github.com/tejas764/Sos-app) | Android emergency-assistance UI and map prototype |
+
+### Learning and small web apps
+
+| Repository | Focus |
+| --- | --- |
+| [Development learning](https://github.com/tejas764/Development_learning) | Express, EJS, databases, and React exercises |
+| [Weather app](https://github.com/tejas764/PRODIGY_WD_05) | City/geolocation weather lookup |
+
+Each project README documents its current scope, setup, and limitations.
 
 ---
 
@@ -70,7 +109,7 @@ Whether it's an interesting idea, a technical challenge, or a project with socia
 
 - 💻 **GitHub:** [github.com/tejas764](https://github.com/tejas764)
 - 📧 **Email:** [tejasbhandarkar12@gmail.com](mailto:tejasbhandarkar12@gmail.com)
-- 🔗 **LinkedIn:** (https://www.linkedin.com/in/tejas-bhandarkar-71112b27a/)
+- 🔗 **LinkedIn:** [Tejas Bhandarkar](https://www.linkedin.com/in/tejas-bhandarkar-71112b27a/)
 
 ---
 
